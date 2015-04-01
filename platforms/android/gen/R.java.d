@@ -1,0 +1,19 @@
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\gen\com\phonegap\helloworld\R.java \
+ : C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\drawable\icon.png \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\drawable-hdpi\icon.png \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\drawable-hdpi\ic_action_next_item.png \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\drawable-hdpi\ic_action_previous_item.png \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\drawable-hdpi\ic_action_remove.png \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\drawable-mdpi\ic_action_next_item.png \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\drawable-mdpi\ic_action_previous_item.png \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\drawable-mdpi\ic_action_remove.png \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\drawable-xhdpi\ic_action_next_item.png \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\drawable-xhdpi\ic_action_previous_item.png \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\drawable-xhdpi\ic_action_remove.png \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\drawable-xxhdpi\icon.png \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\drawable-xxhdpi\ic_action_next_item.png \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\drawable-xxhdpi\ic_action_previous_item.png \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\drawable-xxhdpi\ic_action_remove.png \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\values\strings.xml \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\res\xml\config.xml \
+C:\PhoneGap\Projetos\phonegap_notificacoes\platforms\android\bin\AndroidManifest.xml \
